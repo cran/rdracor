@@ -2,7 +2,7 @@ Package: rdracor
 Type: Package
 Title: Access to the 'DraCor' API
 Description: Provide an interface for 'Drama Corpora Project' ('DraCor') API: <https://dracor.org/documentation/api>.
-Version: 0.7.6
+Version: 1.0.3
 Authors@R: person("Ivan",
                   "Pozdniakov",
                   role = c("aut", "cre"),
@@ -20,8 +20,8 @@ Suggests: testthat (>= 2.1.0)
 URL: https://github.com/dracor-org/rdracor
 BugReports: https://github.com/dracor-org/rdracor/issues
 NeedsCompilation: no
-Packaged: 2023-10-22 18:35:31 UTC; ivan
+Packaged: 2024-04-03 15:55:47 UTC; ivan
 Author: Ivan Pozdniakov [aut, cre] (<https://orcid.org/0000-0002-2450-7004>)
 Maintainer: Ivan Pozdniakov <bucherr@yandex.ru>
 Repository: CRAN
-Date/Publication: 2023-10-22 21:20:02 UTC
+Date/Publication: 2024-04-03 23:40:06 UTC
